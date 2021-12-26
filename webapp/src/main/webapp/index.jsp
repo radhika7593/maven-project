@@ -16,7 +16,7 @@
 <body>
 
 <div class="logo"><img alt="JENKINS" title="JENKINS" src="images/jenkins-logo.jpg"></div>
-<h1>Welcome to JENKINS</h1>
+<h1>Welcome to JENKINS CI/CD Session</h1>
 <p><b>Jenkins</b> is an open source automation server. Jenkins helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery. It is a server-based system that runs in servlet containers such as <b>Apache Tomcat</b>.</p>
 <h2>Advantages of JENKINS</h2>
 <p class="adpara"><i id="ci" class="fa fa-chevron-right" aria-hidden="true"></i> It is an open-source tool with great community support<br>
